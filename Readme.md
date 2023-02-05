@@ -1,6 +1,6 @@
 # React Projects
 
-This repository contains all projects made with React.
+Welcome to the repository for all projects made with React.js! Here you'll find a list of all the projects we have created, as well as a brief description of each one.
 
 ## Table of Contents
 
