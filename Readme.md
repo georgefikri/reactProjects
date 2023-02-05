@@ -8,7 +8,7 @@ This repository contains all projects made with React.
 2. <a href="https://github.com/georgefikri/reactProjects/tree/main/login-users-listing">login page with Users Listing</a>
 3. <a href="https://github.com/georgefikri/reactProjects/tree/main/youtube-listing">YouTube Listing</a>
 4. <a href="https://github.com/georgefikri/reactProjects/tree/main/amazon-clone">Amazon Clone</a>
-5. [amazon clone](/main/amazon-clone)
+5. [amazon clone](#main/amazon-clone)
 
 ## Instructions to Run Projects
 
