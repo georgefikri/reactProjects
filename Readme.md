@@ -4,7 +4,7 @@ This repository contains all projects made with React.
 
 ## Table of Contents
 
-1. Portfolio Website made with React.js and Tailwind CSS
+1. <a href="https://github.com/georgefikri/reactProjects/tree/main/portfolio-react-tailwin">Portfolio Website made with React.js and Tailwind CSS</a>
 
 ## Instructions to Run Projects
 
