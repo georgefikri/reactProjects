@@ -7,6 +7,7 @@ This repository contains all projects made with React.
 1. <a href="https://github.com/georgefikri/reactProjects/tree/main/portfolio-react-tailwin">Portfolio Website made with React.js and Tailwind CSS</a>
 2. <a href="https://github.com/georgefikri/reactProjects/tree/main/login-users-listing">login page with Users Listing</a>
 3. <a href="https://github.com/georgefikri/reactProjects/tree/main/youtube-listing">YouTube Listing</a>
+4. <a href="https://github.com/georgefikri/reactProjects/tree/main/amazon-clone">Amazon Clone</a>
 
 ## Instructions to Run Projects
 
