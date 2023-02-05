@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.login, .login__userName label, .login__password label {
+  display: flex;
+}
+
+.login {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.login__userName label, .login__password label {
+  flex: 0 0 100%;
+}
+
+.login__button {
+  margin-top: 30px;
+}
