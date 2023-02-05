@@ -1,34 +1,11 @@
-# Getting Started with Create React App
+# amazon clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-# firebase sdk snippet
-
-const firebaseConfig = {
-apiKey: "AIzaSyA0nsRyV62C9mMfPMqz1Ee2BiUVW_frIVs",
-authDomain: "clone-1c8b4.firebaseapp.com",
-projectId: "clone-1c8b4",
-storageBucket: "clone-1c8b4.appspot.com",
-messagingSenderId: "508599254934",
-appId: "1:508599254934:web:3ca03baf9e7bd766ba67b7"
-};
+- context api / react js
+- listing products
+- adding products to cart
+- removing products from cart
+- checkout
+- total sum of products in cart
 
 # packages installed
 
@@ -38,6 +15,7 @@ appId: "1:508599254934:web:3ca03baf9e7bd766ba67b7"
 
 - firebase v9 import issue: https://stackoverflow.com/a/69063168
 - Firebase App named 'DEFAULT' already exists issue : https://github.com/vercel/next.js/issues/1999#issuecomment-302244429
+- github pages white after deployment: https://stackoverflow.com/a/54428366
 
 # firebase hosting steps
 
@@ -53,6 +31,8 @@ appId: "1:508599254934:web:3ca03baf9e7bd766ba67b7"
 
 # see it live on firebase hosting
 
-<!-- add link  -->
-
 - https://clone-1c8b4.web.app/
+
+# github pages:
+
+- https://georgefikri.github.io/amazon-clone/
