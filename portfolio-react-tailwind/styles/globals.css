@@ -31,6 +31,6 @@ a {
 
 /* using custom font from public folder */
 @font-face{ 
-  font-face: 'burtons';
+  font-family: 'burtons';
   src: url('../public/Burtons.otf');
 }
