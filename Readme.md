@@ -8,6 +8,7 @@ Welcome to the repository for all projects made with React.js! Here you'll find 
 2. <a href="https://github.com/georgefikri/reactProjects/tree/main/login-users-listing">login page with Users Listing</a>
 3. <a href="https://github.com/georgefikri/reactProjects/tree/main/youtube-listing">YouTube Listing</a>
 4. <a href="https://github.com/georgefikri/reactProjects/tree/main/amazon-clone">Amazon Clone</a>
+5. <a href="https://github.com/georgefikri/reactProjects/tree/main/react-typescript-project-template/my-app">React TypeScript Project Template</a>
 
 ## Instructions to Run Projects
 
