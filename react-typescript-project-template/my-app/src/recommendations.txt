@@ -1,0 +1,14 @@
+- Components: Create a directory for each reusable component with its own index.tsx and optional styling file.
+
+- Environment Configurations: Use .env files and load them with dotenv 
+or the built-in support in create-react-app for different environments (development, staging, production).
+
+- Services: Abstract API calls and other external services.
+
+- Mocking: Utilize tools like MirageJS or MSW for frontend development and testing with mock data.
+
+- Utilities: Common functions used across your app.
+
+- Hooks: Custom React hooks.
+
+- Types: Place to define TypeScript types and interfaces used across your application.
